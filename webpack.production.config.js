@@ -26,8 +26,6 @@ function getEntry() {
         }
     });
 
-    //给第三的口子
-    files.vendor=[];
     return files;
 }
 

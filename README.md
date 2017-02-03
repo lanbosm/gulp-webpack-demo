@@ -1,5 +1,5 @@
-##gulp+webpack 打包模板   
-	参照了[网易打包版](https://github.com/fwon/gulp-webpack-demo)   因为年代比较古老 webpack还是beta...
+##gulp+webpack 打包模板     
+参照了 [网易打包版](https://github.com/fwon/gulp-webpack-demo)   因为年代比较古老 webpack还是beta...
 	自己又加工了下 感谢网易大佬 学习了很多
 
 - 包含一个browser-sync服务器作为热刷新 也可以用webpackdevserver服务器

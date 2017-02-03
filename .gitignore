@@ -1,10 +1,7 @@
-dist/
-gulp/
-dist/zepto.js
 pkg
 *.sublime-project
 *.sublime-workspace
 *.idea
 public
 node_modules
-gulp-webpack-demo-master/
+
